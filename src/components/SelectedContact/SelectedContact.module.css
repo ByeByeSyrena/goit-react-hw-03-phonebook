@@ -1,0 +1,15 @@
+.itemWrapper {
+  display: flex;
+  width: 350px;
+  justify-content: space-between;
+}
+
+.buttonDelete {
+  font-weight: 400;
+  border-radius: 20px;
+  height: 25px;
+  background-color: darkblue;
+  color: aliceblue;
+  border: none;
+  width: 100px;
+}

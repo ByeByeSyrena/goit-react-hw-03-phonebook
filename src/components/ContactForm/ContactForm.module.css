@@ -1,0 +1,17 @@
+.form {
+  padding: 20px;
+  width: 500px;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.buttonAddContact {
+  font-weight: 700;
+  border-radius: 20px;
+  height: 35px;
+  background-color: darkblue;
+  color: aliceblue;
+  border: none;
+  width: 150px;
+}
